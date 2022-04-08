@@ -8,7 +8,7 @@
 
 Projeto feito para criar um modelo de Machine Learning que detecta fraudes em transições com cartões de crédito, tendo como base dados (alterados por questões de privacidade) disponibilizados por uma instituição financeira europeia, com transações de dois dias. Os dados completos podem ser acessados por este [link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
-[Link para o projeto completo]()
+[Link para o projeto completo](https://github.com/Henrique-Peter/fraud_detection_credit_card/blob/main/Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 **Links relacionados:**
 * [Artigo sobre esse projeto no Medium]()
@@ -19,4 +19,4 @@ Projeto feito para criar um modelo de Machine Learning que detecta fraudes em tr
 ## Veja também estes projetos feitos por mim:
 
 * **[Análise de dados sobre a vacinação da COVID-19 no Brasil:](https://bit.ly/3tvdDLc)**
-* **[Análise de dados sobre a vacinação da COVID-19 no Brasil:](https://bit.ly/3tvdDLc)**
+* **[Análise dos Dados do Airbnb - Dublin:](https://bit.ly/35kYrIV)**
