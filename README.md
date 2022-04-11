@@ -11,7 +11,7 @@ Projeto feito para criar um modelo de Machine Learning que detecta fraudes em tr
 [Link para o projeto completo](https://github.com/Henrique-Peter/fraud_detection_credit_card/blob/main/Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 **Links relacionados:**
-* [Artigo sobre esse projeto no Medium]()
+* [Artigo sobre esse projeto no Medium](https://bit.ly/3E3L7Wf)
 * [LinkedIn](https://www.linkedin.com/in/henriquepeter/)
 * [Portfólio Completo](https://github.com/Henrique-Peter/portfolio/blob/main/README.md)
 
